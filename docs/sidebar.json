@@ -1,6 +1,7 @@
 {
   "hl_frost": {
     "Overview": "/",
-    "Data Processing and EDA": "core.html"
+    "Data Processing and EDA": "core.html",
+    "Title": "datamanip.html"
   }
 }
