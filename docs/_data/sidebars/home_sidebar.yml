@@ -14,7 +14,7 @@ entries:
       url: core.html
     - output: web,pdf
       title: Title
-      url: dl.html
+      url: nbeats.html
     output: web
     title: hl_frost
   output: web
