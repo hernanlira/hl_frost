@@ -2,6 +2,7 @@
   "hl_frost": {
     "Overview": "/",
     "Data Processing and EDA": "core.html",
-    "Title": "nbeats.html"
+    "Title": "nbeats.html",
+    "Exploratory data analysis": "2021-06-15-eda.html"
   }
 }
